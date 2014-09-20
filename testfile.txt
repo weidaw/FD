@@ -1,3 +1,5 @@
 This is a test text file for github
 
-edited from branch and conflict weida
+edited from branch weida
+
+add some changes
