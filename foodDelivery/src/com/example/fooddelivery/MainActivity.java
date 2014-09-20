@@ -13,7 +13,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     } // weida 6:32
-
+      // jiangliu 6:43
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
